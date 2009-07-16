@@ -14,6 +14,15 @@ h1 {
   padding-top: 35px;
 }
 
+.existingEntryTable {
+  padding-top: 10px;
+}
+
+.separator {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 /** Most GWT widgets already have a style name defined */
 .gwt-DialogBox {
   width: 400px;
